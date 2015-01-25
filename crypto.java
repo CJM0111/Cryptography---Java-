@@ -76,7 +76,7 @@ public class crypto
 			if(repeatChar=='y'){localend="done";}else
 			if(repeatChar=='N'){localend="done";end="done";}else
 			if(repeatChar=='n'){localend="done";end="done";}else{end="no";}
-			if(end=="no") {
+			if(end=="no"){
 				System.out.println("Invalid input.");
 			} // end if
 		}while(localend!="done"); // end do-while loop
