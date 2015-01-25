@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 import java.security.SecureRandom;
-
 /** 
  * RSA Program -
  * Manages:
@@ -11,7 +10,6 @@ import java.security.SecureRandom;
  * Computing a Private Key from a Public Key using Fermat's Method
  * @author Chris McDonald
 */
-
 public class rsaC
 {
 	// Global variables
