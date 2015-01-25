@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-
 /** 
  *  Classical Encryption and Decryption Program -
  *  Encrypts and Decrypts Messages using various ciphers - (Shift, Substitution, Affine, Vigenere)
