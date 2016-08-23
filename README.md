@@ -1,2 +1,2 @@
-# Cryptography-Java
-Cryptography projects implemented using the Java programming language
+# Cryptography Java
+Cryptography projects implemented using Java
